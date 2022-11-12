@@ -1,7 +1,7 @@
 ---
-title: "Mi Sitio Personal"
+title: "Sitio Personal"
 author: "Daniela Goretti Castillo León"
-date: "23/11/2021"
+date: "11/11/2022"
 output:
   html_document:
     theme: darkly
@@ -15,10 +15,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Datos personales
 - Fecha de nacimiento: 25/02/2002
+- Licenciatura en ciencias genómicas en curso (2020-2023).
 
 ## Mis cursos
-- Python II (https://github.com/Danigore25/python2). Curso de Biopython en la licenciatura en ciencias genómicas.
+- Curso de programación de la licenciatura en ciencias genómicas (2020).
+- Curso de computación de la licenciatura en ciencias genómicas (2021).
+- Curso de Python de la licenciatura en ciencias genómicas (2021).
+- Curso de R de la licenciatura en ciencias genómicas (2021).
+- Curso de Biopython de la licenciatura en ciencias genómicas (2022).
+- Curso de bioinformática de la licenciatura en ciencias genómicas (2020-2022).
 
 ## Contacto y redes sociales
 - Correo: dgoretti@lcg.unam.mx, danigore22@gmail.com
 - Facebook: Gore Castillo
+- Twitter: @Danigore25
